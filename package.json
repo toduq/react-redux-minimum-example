@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-minimum-example",
+  "version": "1.0.0",
+  "description": "Minimum example of react-redux",
+  "scripts": {
+    "watch": "parcel src/index.html"
+  },
+  "author": "@toduq",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.8.3",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
